@@ -1,0 +1,54 @@
+h3{
+  font-size: 1.7rem;
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 35px;
+    margin-bottom: 20px;
+    padding-top: 2.6em;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: blueviolet;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #08d173;
+  }
+  
+  button:active {
+    background-color: #08d173;
+  }
+  
+  .result {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
